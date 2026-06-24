@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 B.Sc. in Data Science (CGPA: 8.20)
+🎓 B.Sc. in Data Science (**CGPA: 8.20**)
 
 📊 Data Analyst passionate about transforming raw data into actionable business insights.
 

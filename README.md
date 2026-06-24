@@ -12,7 +12,8 @@
 
 🌱 Currently expanding my expertise in advanced analytics, business intelligence, and data visualization.
 
-### Professional Experience 
+
+## Professional Experience 
  
 **Data Analyst Intern**
 

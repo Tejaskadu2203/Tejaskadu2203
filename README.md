@@ -12,9 +12,10 @@
 
 🌱 Currently expanding my expertise in advanced analytics, business intelligence, and data visualization.
 
-**Professional Experience**
+### Professional Experience**
+ 
+**Data Analyst Intern**
 
-### Data Analyst Intern
 **PHN TECHNOLOGY** | **3 Months**
 
  Analyzed business datasets to identify trends and actionable insights.

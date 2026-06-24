@@ -15,9 +15,7 @@
 
 ## Professional Experience 
  
-**Data Analyst Intern**
-
-**PHN TECHNOLOGY** | **3 Months**
+**Data Analyst Intern PHN TECHNOLOGY** | **3 Months**
 
  Analyzed business datasets to identify trends and actionable insights.
  Performed data cleaning and preprocessing using Excel and Python.

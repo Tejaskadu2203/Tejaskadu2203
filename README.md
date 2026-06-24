@@ -14,8 +14,7 @@
 
 ---
 
-**Professional Experience
-**
+**Professional Experience**
 
 ### Data Analyst Intern
 **PHN TECHNOLOGY** |** 3 Months**

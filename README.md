@@ -1,4 +1,4 @@
-# Hi, I'm Tejas 👋
+# Hey, I'm Tejas 👋
 
 ## About Me
 
